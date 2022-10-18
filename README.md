@@ -8,7 +8,7 @@
 ### Connect with me:
 
 [<img align="left" alt="MaratZinnatullin | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-<img align="left" alt="MaratZinnatullin | Telegramm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />[https://t.me/marzin10]
+[<img align="left" alt="MaratZinnatullin | Telegramm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 
@@ -25,6 +25,6 @@
 <br />
 <br />
 
-[instagram]: https://www.instagram.com/corvaxv/
-[vk]: https://vk.com/vladislavkalachov
+[telegram]: https://t.me/marzin10
+[vk]: https://vk.com/h0phey
 
